@@ -1,4 +1,4 @@
 INSERT INTO `peserta` VALUES 
-('peserta001', 'Yesy Mayang Sari', 'yesymayangsari@gmail.com'),
-('peserta002', 'Sebastianus Reczy S', 'sebastianusreczy17@gmail.com'),
-('peserta003', 'Domisius Adven Pemandi', 'domisiusadven@gmail.com');
+('peserta001', 'xx3', 'xx1@gmail.com'),
+('peserta002', 'xx2', 'xx2@gmail.com'),
+('peserta003', 'xx3', 'xx3@gmail.com');
